@@ -15,8 +15,6 @@ I first smooth raw tracking data with a Savitzky-Golay filter. I detect ball-ini
 - **Defensive Response Latency:** The time between the ball’s acceleration event and the player’s qualifying acceleration change.
 
 - **Defensive Response Frequency:** The proportion of all qualifying stimulus events to which a defender responds.
-<br>
-<br>
 
 To ensure validity, I restrict potential responses to defenders within 50 meters and 1.25 seconds of the ball’s location at event onset. A Shapiro-Wilk test confirms non-normality in latency (W = 0.972, p < 0.001) and a Kruskal-Wallis shows evidence of heterogeneity across players (H = 165.571, p = 0.073). 
 
