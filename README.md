@@ -2,7 +2,7 @@
 
 Vaughn Hajra, 12/24/2025
 
-## Understanding the Spatial Drivers of On-Field Reaction Time
+## Quantifying the Spatial Drivers of On-Field Reaction Time
 #### Introduction
 
 Despite game context being central to on-field reactions, traditional reaction time is only measured in a controlled environment. To address this gap, I introduce a novel framework to measure on-field **defensive response latency** and **defensive response frequency**. Derived from raw tracking data, I extract player-level reaction events, identify the spatial drivers of response timing, and develop probabilistic player response profiles.
