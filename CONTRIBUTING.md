@@ -1,4 +1,4 @@
-# Contributing to the Open-Source Project
+# Contributing Guidelines
 
 Thank you for your interest in contributing! This project aims to move beyond static recognition tests toward true measures of on-field cognition using tracking data.
 
